@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483758771389",
+    "project_id": "armando-c27a7",
+    "storage_bucket": "armando-c27a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483758771389:android:c939d9b3dfc377c926fbd4",
+        "android_client_info": {
+          "package_name": "com.example.armando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483758771389-l3cdl54m67hvkafmju0elt0igpobmf82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA15_dRXlvaat0WqE5jQjmSKnwXA94OFc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483758771389-l3cdl54m67hvkafmju0elt0igpobmf82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
